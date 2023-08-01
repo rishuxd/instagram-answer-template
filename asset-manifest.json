@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/instagram-answer-template/static/css/main.b2fbf1d0.css",
+    "main.js": "/instagram-answer-template/static/js/main.97a01641.js",
+    "static/js/787.65264cd2.chunk.js": "/instagram-answer-template/static/js/787.65264cd2.chunk.js",
+    "static/media/bg.jpg": "/instagram-answer-template/static/media/bg.e9623deec89860222355.jpg",
+    "index.html": "/instagram-answer-template/index.html",
+    "main.b2fbf1d0.css.map": "/instagram-answer-template/static/css/main.b2fbf1d0.css.map",
+    "main.97a01641.js.map": "/instagram-answer-template/static/js/main.97a01641.js.map",
+    "787.65264cd2.chunk.js.map": "/instagram-answer-template/static/js/787.65264cd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2fbf1d0.css",
+    "static/js/main.97a01641.js"
+  ]
+}
